@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'almad-DashboardLib',
   template: `
     <p>
-      dashboard-lib works!
+      dashboard-lib works! update
     </p>
   `,
   styles: []
